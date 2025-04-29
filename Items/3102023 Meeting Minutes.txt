@@ -1,0 +1,27 @@
+3/10/2023 Meeting Minutes
+
+Tree Data Structure is done
+
+Will meet again on friday
+Deadlines before friday
+	Chat functions and main page functional 
+	Tree stucture is tested and parser for search is done
+
+Next Week tasks
+	Make look pretty
+	Firebase integration
+	User Stuff
+
+Futher Tasks
+	Testing
+
+add feat
+	group chat
+	chat request
+	gmail register user
+	otp register via gmail
+	user profile
+	user images
+	subscrption model topics
+	firebase auth
+	

@@ -1,0 +1,3 @@
+(DAY):Wed;(TIME)>300;(TAGS):barry,mark,john
+
+(DAY):Wed;(DAY):Thurs,Mon;(TIME)>10000;(TIME)<200;(TAGS):barry,mark,john

@@ -1,0 +1,51 @@
+Meeting Minutes 171023
+
+Doing the final check
+	Couldn't follow all the steps in the video but managed to get somthing which is an APK
+	APK is done, no more changes
+
+having 2500+ Firebase entries takes time to load
+	we could add progress bars but we probably won't get extra marks for it
+	Just let them know in known bugs
+
+Only one image avaliable
+	fuck it, its a feature. "to prevent explicit or offensive images"
+	or whatever
+
+Request Spam
+	Is a bug which is a deveopment opportunity
+
+Sort Cuts down on possible results
+	bug
+
+Fuck we are both dsylexic 
+
+
+Aditional features
+Search Filter
+Data-Profile
+FB auth
+FB Persist
+Chat Function
+Chat Restriction
+Privacy-Request
+
+Suprise Features
+Item Ranking
+Previous Search Log
+Promoted Items
+
+
+Items we still need to do
+	Slides [Davina]
+	Video [Davina]
+	Finish off Report [Jack and Davina]
+	Originality [Davina]
+	Reflections [Individual]
+	Code Comments and Author Notations [Jack]
+	
+Pages that need to be removed
+	Message frag
+	Home Activity
+	TopicItem
+	

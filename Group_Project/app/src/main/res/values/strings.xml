@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">GroupProjectApplication</string>
+    <string name="login_title_text">Welcome to Login Page </string>
+    <string name="username_text">Username </string>
+    <string name="submit_button">Submit </string>
+    <string name="register_title_text">Welcome to Register Page</string>
+    <string name="register_email">Email </string>
+    <string name="register_password">Password</string>
+    <string name="login_email">Email </string>
+    <string name="login_password">Password</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_topiclist">TopiclistActivity</string>
+
+    <string name="main_title">Welcome to Study Search</string>
+    <string name="login_btn">Login</string>
+    <string name="tab_1">News</string>
+    <string name="tab_2">Groups</string>
+    <string name="tab3">Chats</string>
+    <string name="register_btn">Register</string>
+    <string name="logout">Logout</string>
+    <string name="profile">Profile</string>
+    <string name="requests">Requests</string>
+    <string name="addnews">Create Study Group</string>
+    <string name="topic">Topic</string>
+    <string name="time_title">Time</string>
+    <string name="day_title">Day</string>
+    <string name="join_btn">Join</string>
+    <string name="search_Button">Search</string>
+    <string name="search_help">Search Help</string>
+    <string name="search_help_title">Here is how to search</string>
+    <string name="time_help">(TIME) {: for contains, or greaterThan or lessThan symbol} {Then 4 digit number HHMM}</string>
+    <string name="Day_help">(DAY) : {Short form of day eg. Mon, Tue, Thurs etc.}</string>
+    <string name="Tag_help">(TAG) : {any String, however this search feature is a proof of concept}</string>
+    <string name="Sort_help">(ALTSORT) use to rank searches by likes and promote Ads</string>
+    <string name="list_help">Any value after a Contains {:} symbol can be a list, seperated by commas{Value,Value}</string>
+    <string name="next_help">To enforce multiple conditions use {Condition};{Condition}</string>
+    <string name="past_search_title">Past Searches</string>
+</resources>

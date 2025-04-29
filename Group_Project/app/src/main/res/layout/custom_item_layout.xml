@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/item_layout"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp">
+
+        <TextView
+            android:id="@+id/item_topic_text"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:paddingEnd="10dp"
+            android:text="@string/topic"
+            android:textStyle="bold"
+            tools:ignore="RtlSymmetry"
+            tools:layout_editor_absoluteX="20dp"
+            tools:layout_editor_absoluteY="16dp"
+            android:textAlignment="center"/>
+
+        <TextView
+            android:id="@+id/item_topic"
+            android:layout_width="324dp"
+            android:layout_height="30dp"
+            tools:layout_editor_absoluteX="67dp"
+            tools:layout_editor_absoluteY="16dp"
+            />
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp">
+
+        <TextView
+            android:id="@+id/item_time_text"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:paddingEnd="10dp"
+            android:text="When"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            tools:ignore="RtlSymmetry"
+            tools:layout_editor_absoluteX="20dp"
+            tools:layout_editor_absoluteY="54dp"
+            />
+
+        <TextView
+            android:id="@+id/item_time"
+            android:layout_width="204dp"
+            android:layout_height="30dp"
+            android:layout_marginEnd="10dp"
+            tools:layout_editor_absoluteX="67dp"
+            tools:layout_editor_absoluteY="54dp"
+
+            />
+
+        <ImageView
+            android:id="@+id/item_like_image"
+            android:layout_width="30dp"
+            android:layout_height="15dp"
+            android:layout_marginTop="5dp"
+            android:contentDescription="TODO"
+            android:src="@drawable/like" />
+
+        <TextView
+            android:id="@+id/item_likes"
+            android:layout_width="79dp"
+            android:layout_height="30dp"
+            android:layout_marginEnd="10dp"
+            tools:layout_editor_absoluteX="67dp"
+            tools:layout_editor_absoluteY="54dp" />
+
+
+    </LinearLayout>
+
+
+    <View
+        android:id="@+id/divider"
+        android:layout_width="409dp"
+        android:layout_height="1dp"
+        android:background="?android:attr/listDivider"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="129dp" />
+
+</androidx.appcompat.widget.LinearLayoutCompat>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_menu_logout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/logout" />
+    <item
+        android:id="@+id/item_menu_profile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/profile" />
+    <item
+        android:id="@+id/item_menu_news"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/addnews" />
+    <item
+        android:id="@+id/item_menu_request"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/requests" />
+    <item
+        android:id="@+id/item_menu_search_help"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/search_help" />
+</menu>

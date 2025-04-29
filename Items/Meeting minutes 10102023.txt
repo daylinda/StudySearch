@@ -1,0 +1,28 @@
+Meeting minutes 10/10/2023
+Notes for things to
+	Need to ensure time is max 4 digits [x]
+	Input Management [x]
+	Toasts for all Errors
+		For Blank fields[x]
+		For faulty searches[x]
+	Upload Large Data[x]
+	Unit Testing [x]
+		In report Also talk about White Box testing in runnable code
+	Make tutor profiles[]
+	Request and Single Chat[x]
+	Make Instructions for Using Search Grammar[x]
+	
+Its actually optional
+	Past Search management[x]
+	Promoted Bool[x]
+	Ranking Algorithm
+		Likes (only one like per user)[x]
+		Promoted[x]
+
+Report
+	Find UML pattern for chat function
+	Siungleton for News
+	Singleton for User
+	Factory for News/Group
+
+	

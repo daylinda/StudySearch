@@ -1,0 +1,58 @@
+Meeting Notes 26/09/2023
+
+Agenda
+	-Why we hate hate Sergio
+	-Project Idea
+	-Module Dividing
+
+Why we hate Sergio
+	Obvious, he is out of touch with reality to a point of insanity
+
+Project Idea
+	- Study Group timetabling
+	- Seach for study groups by Course, Content, Time, Week, Responses, Likes ect
+	- These will link to group chats which you can request to join (topic poster will approve/reject)
+	- Can also make private message chats
+
+Module Dividing
+	- Davina Knows Firebase! Wooohooo!
+		- Firebase Auth and Integration
+			-Includes Registration
+			-Profile Page
+		- Backup
+		- Fire Base Uploads (Text, Video and gifs?)
+	-P2P Mesaging Davina is confident that they can do it with firebase 
+	- Login Page Already Completed by Jack, BUT ANDROID STUDIO IS A NIGHTMARE
+
+	-Database with Firebase, will need to use Jacks firebase because Davinas is full
+
+	- We need a database for login users, one for discussions topics and a set for messages for each user
+
+Activities
+	Main, heads straight to login or register
+	Login, login as a user to home, or register
+	Register, allows the creation of a user, then sends to login
+	Home, Is a multitab of Topic, Messages, Requests. And also and icon for user details
+	User Details, lists and allows edits of user details
+	NewTopic, allows the creation of a new topic, adds it to the database 
+	Topic, when a topic is clicked the details of that topic open
+	Message, when a message is clicked on the contents of that message are listed
+	Message Details, icon to find the details of a message, lists members and other details
+
+Have a schedule of development activities.
+	Today
+		Activities: Main, Login, Register, Home, NewTopic
+		Databases: Users, Topics
+	Next Week
+		Activities: Message, Message Details, User Deatils
+The roles of each member.
+	-Jack, Chief Vice President of Administative Works and Tokenisation Sub Division
+	-Davina, Exectutive of Firebase operations for Mid North Coast and Wider reaches 
+At least one meeting minute.
+	- This is a meeting minute
+
+A planned structure of your code.
+	- In Davinas notebook is most clear but also outlined above
+
+Completed the majority of the basic features
+	This is a genuinly insane requirement for 3 days into this project, We hate Sergio

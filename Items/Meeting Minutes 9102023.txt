@@ -1,0 +1,19 @@
+Meeting Minutes 9/10/2023
+
+Suprise Features
+	Obligitiry we hate sergio
+	GOD THIS IS SO BADLY WRITTEN
+	In order of time makes sense (no. likes is an option )
+	Log previous searches, add a section in user profile which lets a user see previous search strings
+	Topic Ads either have a Promoted bool which makes those topics prioritised
+	
+All skeleton tasks infrastructure done
+	need to add search to IU
+	Need to combine News and Topic such that the whole project is working off of one Object
+	Chat Feauture done!, refactoring and evalustaing in the face of SERGIO the nightmare creature
+	Want to have search finished by tonight, will add a few topics to have the ability to show it off tomorrow
+	Need to register for a checkpoint eval, Please let us have Llew
+
+
+This file has had notes deleted because We had a discussion with Llew and he cleared up a lot of issues
+Then I started delting things as I completed them, not great logging but I was tired, sue me
